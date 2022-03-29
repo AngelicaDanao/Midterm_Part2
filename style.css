@@ -1,0 +1,256 @@
+body{
+    background-color: rgb(26, 25, 25);
+}
+.bg{
+    background-color: white;
+    height: 2000px;
+    width: 1000px;
+    margin-left: 260px;
+   
+}
+.head{
+    background-color: #fe846d;
+    width: 1000px;
+    height: 450px;
+    border-bottom-left-radius: 5vw;
+    
+    
+}
+.introdesktop{
+    padding: 30px;
+    padding-bottom: 50px;
+    width: 1000px;
+    height: 700px;
+    margin-left: 200px;
+    position: absolute;
+    clip: rect(0px, 800px,450px,0px);
+   
+   
+}
+.nav{
+    margin-left: 90px;
+    padding-top: 50px;
+
+}
+
+.blgr{
+    font-size: 30px;
+    color: white;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.product ,.company ,.connect {
+    padding-left: 50px;
+    font-size: 17px;
+    color: white;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login{
+    padding-left: 300px;
+    font-size: 17px;
+    color: white;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signup{
+    padding-left: 20px;
+    font-size: 17px;
+    color: white;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.platform{
+   
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 240px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.tag{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 350px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    margin-top: 210px;
+    position: absolute;
+    border-radius: 20px;
+    color: white ;
+
+}
+.btn1{
+    margin-left: 380px;
+    height: 40px;
+    width: 110px;
+    background-color:#ff6464;
+    border: none;
+}
+.btn2{
+    margin-left: 520px;
+    height: 40px;
+    width: 110px;
+    background-color:#ff6464 ;
+    border: none;
+
+}
+.designtitle{
+    margin-left: 400px;
+}
+.left0{
+    width: 500px;
+    height: 340px;
+    float: left;
+    background-color: white;
+    
+
+}
+.title{
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 70px;
+
+}
+.content{
+    padding-left: 70px;
+    text-align: justify;
+}
+.right0{
+    width: 500px;
+    height: 340px;
+    float: right;
+    background-color: white;
+}
+.editdesktop{
+    width: 400px;
+    height:300px;
+    padding-left: 130px;
+    
+}
+.midcon{
+    padding-top: 60px;
+    background-color: #3b3c5b;
+    height: 600px;
+    border-bottom-left-radius:  70px;
+    border-top-left-radius: 50px;
+    
+    
+}
+
+
+.right1{
+    width: 500px;
+    height: 340px;
+    float: right;
+    
+}
+
+
+.circles {
+    
+    position: relative;
+    width: 500px;
+    height: 340px;
+    float: left;
+  }
+  
+.overlay {
+    position: absolute;
+    top: 850px;
+    right: 800px;
+    
+   
+  }
+.phones{
+    height: 400px;
+    width: 400px;
+}
+.title1{
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 70px;
+    padding-top: 60px;
+    color: white;
+
+}
+.content1{
+    padding-right: 70px;
+    text-align: justify;
+    color: white;
+}
+
+.left2{
+    width: 500px;
+    height: 340px;
+    float: left;
+    margin-top: 100px;
+    
+
+}
+.right2{
+    width: 500px;
+    height: 340px;
+    float: right;
+    margin-top: 130px;
+
+    
+}
+.title2{
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 70px;
+
+}
+.content2{
+    padding-right: 70px;
+    text-align: justify;
+}
+.lapdesk{
+    
+    width: 450px;
+    height:400px;
+}
+.footer{
+    background-color: #24242c;
+    height: 350px;
+    margin-top: 600px;
+    border-top-right-radius: 50px;
+    color: bisque;
+}
+.left3{
+    width: 500px;
+    height: 340px;
+    float: left;
+    margin-top: 80px;
+    
+
+}
+.right3{
+    width: 500px;
+    height: 340px;
+    float: right;
+    margin-top: 80px;
+
+    
+}
+.foot1{
+    float: left;
+    margin-left: 100px;
+}
+.foot2{
+    float: right;
+    margin-right: 100px;
+    
+}
+.foot3{
+    float: left;
+    margin-left: 100px;
+}
+.foot4{
+    float: right;
+    margin-right: 100px;
+}
